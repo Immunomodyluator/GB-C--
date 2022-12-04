@@ -13,3 +13,18 @@ C:\Users\Ivan\Desktop\GB C#\Lesson 1\obj\Debug\net7.0\refint\Lesson 1.dll
 C:\Users\Ivan\Desktop\GB C#\Lesson 1\obj\Debug\net7.0\Lesson 1.pdb
 C:\Users\Ivan\Desktop\GB C#\Lesson 1\obj\Debug\net7.0\Lesson 1.genruntimeconfig.cache
 C:\Users\Ivan\Desktop\GB C#\Lesson 1\obj\Debug\net7.0\ref\Lesson 1.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\bin\Debug\net7.0\Lesson 1.exe
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\bin\Debug\net7.0\Lesson 1.deps.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\bin\Debug\net7.0\Lesson 1.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\bin\Debug\net7.0\Lesson 1.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\bin\Debug\net7.0\Lesson 1.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\refint\Lesson 1.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\Lesson 1.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 1\Задание 2\obj\Debug\net7.0\ref\Lesson 1.dll
