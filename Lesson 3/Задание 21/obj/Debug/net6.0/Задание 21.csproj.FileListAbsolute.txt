@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\bin\Debug\net6.0\Задание 21.exe
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\bin\Debug\net6.0\Задание 21.deps.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\bin\Debug\net6.0\Задание 21.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\bin\Debug\net6.0\Задание 21.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\bin\Debug\net6.0\Задание 21.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\refint\Задание 21.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\Задание 21.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 3\Задание 21\obj\Debug\net6.0\ref\Задание 21.dll
