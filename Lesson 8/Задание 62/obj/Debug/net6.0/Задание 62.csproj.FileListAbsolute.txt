@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\bin\Debug\net6.0\Задание 62.exe
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\bin\Debug\net6.0\Задание 62.deps.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\bin\Debug\net6.0\Задание 62.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\bin\Debug\net6.0\Задание 62.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\bin\Debug\net6.0\Задание 62.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\refint\Задание 62.dll
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.pdb
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\Задание 62.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB C#\Lesson 8\Задание 62\obj\Debug\net6.0\ref\Задание 62.dll
